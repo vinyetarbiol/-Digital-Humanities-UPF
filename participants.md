@@ -5,13 +5,13 @@
 * Celine Kerfant, Cel31, archaeobotany
 
 ### Add your Name, GitHub Name, Discipline
-* Vinyet Arbiol Giménez, Contemporary Art
 *
 *
 *
 *
 *
-*
+** Vinyet Arbiol Giménez, Contemporary Art
+
 *
 *
 *
