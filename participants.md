@@ -2,7 +2,7 @@
 
 ### Course organisers
 * Simone Ventura
-* Celine Kerfant, Cel31
+* Celine Kerfant, Cel31, archaeobotany
 
 ### Add your Name, GitHub Name, Discipline
 *
